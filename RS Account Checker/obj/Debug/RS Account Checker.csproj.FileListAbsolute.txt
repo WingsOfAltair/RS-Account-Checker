@@ -1,0 +1,6 @@
+C:\Users\Waffles\Desktop\RS Account Checker\RS Account Checker\bin\Debug\RS Account Checker.exe.config
+C:\Users\Waffles\Desktop\RS Account Checker\RS Account Checker\bin\Debug\RS Account Checker.exe
+C:\Users\Waffles\Desktop\RS Account Checker\RS Account Checker\bin\Debug\RS Account Checker.pdb
+C:\Users\Waffles\Desktop\RS Account Checker\RS Account Checker\obj\Debug\RS Account Checker.exe
+C:\Users\Waffles\Desktop\RS Account Checker\RS Account Checker\obj\Debug\RS Account Checker.pdb
+C:\Users\Waffles\Desktop\RS Account Checker\RS Account Checker\obj\Debug\RS Account Checker.csprojResolveAssemblyReference.cache
